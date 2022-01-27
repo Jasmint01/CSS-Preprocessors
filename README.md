@@ -9,4 +9,4 @@ Create a single web page that has...
 * Using the CSS Preprocessor
 
 # Hosted Project
-[Hosted Version of project](https://github.com/Jasmint01/CSS-Preprocessors)
+[Hosted Version of project](https://jasmint01.github.io/CSS-Preprocessors/)
